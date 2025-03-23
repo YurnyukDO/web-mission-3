@@ -6,7 +6,7 @@
 
 **Screenshot**
 
-<img width="1013" alt="image" src="https://github.com/user-attachments/assets/6a7a9983-1fb0-4caf-890f-892ea19ecc9c" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/6a7a9983-1fb0-4caf-890f-892ea19ecc9c" />
 
 ---
   
